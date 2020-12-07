@@ -1,0 +1,5 @@
+E:\AspNet2020\SolutionProjetMusic\MyMusic.Core\bin\Debug\netstandard2.0\MyMusic.Core.deps.json
+E:\AspNet2020\SolutionProjetMusic\MyMusic.Core\bin\Debug\netstandard2.0\MyMusic.Core.dll
+E:\AspNet2020\SolutionProjetMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.csprojAssemblyReference.cache
+E:\AspNet2020\SolutionProjetMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.AssemblyInfoInputs.cache
+E:\AspNet2020\SolutionProjetMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.AssemblyInfo.cs
